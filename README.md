@@ -99,9 +99,3 @@ mvn clean install
 ## 👨‍💻 Author
 
 **C S Manoj**
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
